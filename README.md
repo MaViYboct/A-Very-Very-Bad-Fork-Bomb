@@ -2,7 +2,7 @@
 
 This is bad... but kid of fun. 
 
-Normally fork bombs create files that create files leading into a unstopabble multiplation leading into computer crashing.
+Normally fork bombs create files that create other files leading into a unstopabble multiplation resulting into computer crashing.
 
 This on the other hand is safer to use. This program only creates files when the program is running.
 
